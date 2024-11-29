@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "first",
+    "nesting": []
+  },
+  {
+    "id": 2,
+    "name": "second",
+    "nesting": [
+      {
+        "id": 3,
+        "name": "second_first",
+        "nesting": []
+      },
+      {
+        "id": 4,
+        "name": "second_second",
+        "nesting": [
+          {
+            "id": 5,
+            "name": "second_second_first",
+            "nesting": []
+          },
+          {
+            "id": 6,
+            "name": "second_second_second",
+            "nesting": []
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "second_third",
+        "nesting": []
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "third",
+    "nesting": []
+  },
+  {
+    "id": 9,
+    "name": "fourth",
+    "nesting": []
+  },
+  {
+    "id": 10,
+    "name": "fifth",
+    "nesting": [
+      {
+        "id": 11,
+        "name": "fifth_first",
+        "nesting": [
+          {
+            "id": 12,
+            "name": "fifth_second",
+            "nesting": []
+          },
+          {
+            "id": 13,
+            "name": "fifth_third",
+            "nesting": [
+              {
+                "id": 14,
+                "name": "fifth_third_first",
+                "nesting": []
+              },
+              {
+                "id": 15,
+                "name": "fifth_third_second",
+                "nesting": [
+                  {
+                    "id": 16,
+                    "name": "fifth_third_second_first",
+                    "nesting": [
+                      {
+                        "id": 17,
+                        "name": "fifth_third_second_first_first",
+                        "nesting": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "fifth_second",
+        "nesting": []
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "sixth",
+    "nesting": []
+  }
+]
